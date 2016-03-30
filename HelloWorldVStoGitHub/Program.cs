@@ -10,6 +10,7 @@ namespace HelloWorldVStoGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
